@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CV2iwnlM+4nu9/RzMAYW7qZjA7RBYfZZ1Tp/Q2WtRre/glJSqWrEEr8mgknYEDBvffbE6le6KdGRJVpIFdtdSg==",
+  "success": true,
+  "projectFilePath": "C:\\exemplosCsharp\\Revisao\\Revisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
